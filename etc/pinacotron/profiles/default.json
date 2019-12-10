@@ -3,7 +3,7 @@
         "annotate": {
             "average":     null,
             "colorspace":  "Gray",
-            "fill":        "#FFFFFF",
+            "fill":        "#FF0000",
             "gravity":     "South",
             "pointsize":   "196",
             "separate":    null,
