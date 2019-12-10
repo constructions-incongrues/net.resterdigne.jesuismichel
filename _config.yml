@@ -3,7 +3,7 @@
 #############################
 
 # The title that appears on the tab
-title: Michel Michel Michel Michel Michel Michel Michel Michel Michel Michel Michel Michel
+title: Je suis Michel
 
 # The title on the web page
 full_name: Je suis Michel
@@ -22,7 +22,7 @@ spacing: 10
 shuffle: true
 
 # Integer: Number of columns for square or columns
-columns: 3
+columns: 8
 
 # Integer: Max height for rows
 max_height: 400
@@ -42,10 +42,10 @@ name: Je suis Michel
 description: Je suis Michel
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Michel Michel
+author: Je suis Michel
 
 # Your email if you want it to be linked on the contact page
-author_email: michel@resterdigne.net
+author_email: jesuismichel@resterdigne.net
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
